@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hii 👋, I'm Akshat Saxena</h1> <p align="left"> 
+  
+<img src="https://komarev.com/ghpvc/?username=Akshat280401&label=Profile%20views&color=0e75b6&style=flat" alt="Akshat280401" /> 
 
-<!--
-**Akshat280401/Akshat280401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p> > 👀 I am Akshat Saxena, working as a Software Developer Intern at CoreCard Software Inc. 
 
-Here are some ideas to get you started:
+> 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💬 Ask me about **Web Development**
+
+> 📫 How to reach me ****
+
+> ⚡ Fun fact **I love to improve my understanding and competence at every point in life.**
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat280401&" alt="Akshat280401" /> </p>
