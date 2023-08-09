@@ -2,7 +2,7 @@
   
 <img src="https://komarev.com/ghpvc/?username=Akshat280401&label=Profile%20views&color=0e75b6&style=flat" alt="Akshat280401" /> 
 
-</p> > 👀 I am Akshat Saxena, working as a Software Developer Intern at CoreCard Software Inc. 
+> 👀 I am Akshat Saxena, working as a Software Developer Intern at CoreCard Software Inc. 
 
 > 🌱 I’m currently learning **C#**, **.NET**, and **RESTful API**.
 
